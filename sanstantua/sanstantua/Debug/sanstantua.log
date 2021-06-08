@@ -1,0 +1,3 @@
+﻿  main.c
+d:\repos\c_trains\sanstantua\sanstantua\main.c(48): warning C4013: write: нет определения; предполагается "extern" с возвратом типа "int"
+  sanstantua.vcxproj -> D:\repos\c_trains\sanstantua\Debug\sanstantua.exe
